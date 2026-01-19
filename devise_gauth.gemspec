@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.homepage = 'http://github.com/pharmony/devise_gauth'
   spec.license = 'MIT'
 
-  spec.required_ruby_version = '3.1.6'
+  spec.required_ruby_version = '3.1.7'
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
